@@ -1,0 +1,3 @@
+build/
+fybrikLogging.egg-info/
+*.pyc
